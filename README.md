@@ -34,9 +34,3 @@ Or clone this repo and execute the command shown below to get it installed as gl
 ```bash
 dotnet tool install --global --add-source ./FennecLabs Fennec.Labs --version 0.7.5-preview.2
 ```
-## Demo video's
-
-- Scorecards : https://youtu.be/l5E0civv82U?t=1584
-- Reproduciblity: https://youtu.be/l5E0civv82U?t=2048
-- Instrument: https://youtu.be/l5E0civv82U?t=2219
-- Compare: https://youtu.be/l5E0civv82U?t=2487
