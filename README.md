@@ -26,7 +26,7 @@ Fennec Labs has not been released to NuGet at this point. You can either add the
 And then run the following command to get it installed:
 
 ```bash
-dotnet tool install --global fennec.labs --version 0.7.5-preview.1
+dotnet tool install --global fennec.labs --version 0.7.5-preview.2
 ```
 
 Or clone this repo and execute the command shown below to get it installed as global tool on your system.
